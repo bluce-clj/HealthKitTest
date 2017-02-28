@@ -27,6 +27,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         //修改6
         
+        //修改7
+        
         
         return true
     }
